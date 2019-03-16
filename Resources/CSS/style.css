@@ -9,11 +9,39 @@ body {
   font-size: 70px;
   font-weight: bold;
   color: white;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 }
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.newyork {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+}
+
+/*PARAGRAPHS*/
+
+p {
+  font-size: 14px;
+}
+
 
 /*LINKS*/
 
-.links--cta {
+.btn-nav {
   font-size: 18px;
   color: white;
+
 }
+
+/*FOOTER*/
